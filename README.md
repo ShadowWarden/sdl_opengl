@@ -1,0 +1,1 @@
+This is a repository of my varius attempts - failed or otherwise - of embedding OpenGL code in SDL. I usually have makefiles for each individual code that I write, so all you need to do to run is navigate to the folder and make.
